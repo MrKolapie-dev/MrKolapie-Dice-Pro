@@ -1,0 +1,6 @@
+{
+  "name": "MrKolapie Dice Pro",
+  "description": "High-performance, privacy-centric branded 3D dice utility with shake detection and legal compliance hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
